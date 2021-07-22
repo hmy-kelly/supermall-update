@@ -1,0 +1,29 @@
+{
+  "name": "supermall",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "better-scroll": "^1.13.2",
+    "core-js": "^2.6.5",
+    "postcss-px-to-viewport": "^1.1.1",
+    "vue": "^2.6.10",
+    "vue-router": "^3.5.2",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
+    "@babel/preset-react": "^7.14.5",
+    "@vue/cli-plugin-babel": "^3.0.4",
+    "@vue/cli-service": "^3.0.4",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.2.6",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^4.44.2"
+  }
+}
