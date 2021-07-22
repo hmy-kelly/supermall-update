@@ -1,7 +1,7 @@
 <template>
       <div id="home">
         <nav-bar class="nav_home">
-            <div slot="center">购物车</div>
+            <div slot="center">购物车测试</div>
         </nav-bar>
 
         <tab-control :titles='["流行","新款","精选"]' @TabClick='tabClick' ref='tabControl1'
